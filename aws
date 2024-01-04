@@ -1,7 +1,7 @@
 Explain the command git diff-tree -r {hash}
-How to find the list the files that changed during a commit ?
+How to find the list the files that changed during  commits ?
 Describe the branching strategies that you have used ?
-Explain the advantage of forking  workflow ? (other git workflows)
+Explain the advantage of forking  workflow over git workflow?
 What does a  hook comprise of in git ?
 Could you please explain git workflow ?
 Explain the difference b/w fork clone and branch
